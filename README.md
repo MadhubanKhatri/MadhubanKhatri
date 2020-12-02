@@ -8,7 +8,7 @@ Here are some points that are describe me who I am:
 - 🌱 I’m currently learning ...Django
 - 👯 I’m looking to collaborate on ...GitHub
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...[YouTube Channel](http://madhuban.video)
+- 📫 How to reach me: ...[YouTube Channel](http://madhubankhatri.video)
 - 😄 Pronouns: ...Mady
 - ⚡ Fun fact: ...I m a Self-Taught Programmer
 
