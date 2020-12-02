@@ -10,5 +10,5 @@ Here are some points that are describe me who I am:
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...[YouTube Channel](http://madhuban.video)
 - 😄 Pronouns: ...Mady
-- ⚡ Fun fact: ...I m Self-Taught Programmer
+- ⚡ Fun fact: ...I m a Self-Taught Programmer
 
