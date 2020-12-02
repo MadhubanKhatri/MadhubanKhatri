@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**MadhubanKhatri/MadhubanKhatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+Here are some points that are describe me who I am:
 
 - 🔭 I’m currently working on ...YouTube
 - 🌱 I’m currently learning ...Django
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[Youtube channel](http:/MADHUBAN KHATRI)
 - 😄 Pronouns: ...Mady
 - ⚡ Fun fact: ...I m Self-Taught Programmer
--->
+
