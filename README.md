@@ -1,6 +1,5 @@
-### Hi there 👋
-
-[![Madhuban Khatri's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/madhubankhatri)
+## Hi, I'm Madhuban Khatri 👋
+![Image of Yaktocat](https://img.favpng.com/5/2/6/web-development-software-developer-mobile-app-development-programmer-png-favpng-XTFtSgF3mMiGGtnyaGNAghK55.jpg)
 
 Here are some points that are describe me who I am:
 
