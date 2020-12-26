@@ -1,4 +1,4 @@
-## Hi, I'm Madhuban Khatri 👋
+## Hi 👋, I'm Madhuban Khatri 
 
 Here are some points that are describe me who I am:
 ```
