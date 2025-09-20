@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhubankhatri&label=Profile%20views&color=0e75b6&style=flat" alt="madhubankhatri" /> </p>
 
-- 🌱 I’m currently learning **C++, Competetive programming**
 
 - 👨‍💻 All of my projects are available at [https://www.youtube.com/channel/UCxPWxR2Rzc2jdk_5JMvoQCQ](https://www.youtube.com/channel/UCxPWxR2Rzc2jdk_5JMvoQCQ)
 
@@ -13,7 +12,7 @@
 
 - 📫 How to reach me **madhuban211998@gmail.com**
 
-- ⚡ Fun fact **I think I am a good Coder**
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
